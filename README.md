@@ -1,1 +1,1 @@
-# somnia-staking
+# staking-somnia
